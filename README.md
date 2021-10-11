@@ -1,15 +1,15 @@
-<img align="right" src="https://i.pinimg.com/originals/69/20/62/692062d033a6f22be8ffbf3b23e8a1f7.gif" style="width:350px; height:350px; border: 50px; max-width:100%;">
+<img align="right" src="https://cdn2.scratch.mit.edu/get_image/gallery/1818223_170x100.png" style="width:350px; height:350px; border: 50px; max-width:100%;">
 
 ## Fala ai! Meu nome é Matheus 🤙
 
 - 📚 Learning new things along my journey
-- 👨‍💻 I'm currently learning programming
+- 👨‍💻 I'm currently learning programming </>
 - 💪🏻 I’m looking to collaborate on my personal development
 - 📫 How to reach me: ml214964@gmail.com  
  
  
 ##
-
+<br><br><br><br><br>
 
 
 <div align="center">
