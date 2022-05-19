@@ -1,4 +1,4 @@
-<img align="right" src="https://art.ngfiles.com/images/228000/228279_classyraptor_mega-man-meets-adventure-time.gif?f1355636363" style="width:250px; height:230px; border: 50px; max-width:70%;">
+<img align="right" src="https://art.ngfiles.com/images/228000/228279_classyraptor_mega-man-meets-adventure-time.gif?f1355636363" style="width:250px; height:170px; border: 50px; max-width:70%;">
 
 ## Fala ai! Meu nome é Matheus 🤙
 
