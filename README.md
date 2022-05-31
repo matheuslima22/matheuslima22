@@ -1,31 +1,32 @@
-<img align-itens="right" src="https://art.ngfiles.com/images/228000/228279_classyraptor_mega-man-meets-adventure-time.gif?f1355636363" style="width:20px; height:70px; border: 50px; max-width:40%;">
 
-## Fala ai! Meu nome é Matheus 🤙
+
+## Hi, i am Matheus 🤙
 
 - 📚 Learning new things along my journey
 - 👨‍💻 I'm currently learning programming </>
 - 💪🏻 I’m looking to collaborate on my personal development
 - 📫 How to reach me: ml214964@gmail.com  
+ <img align= "right-top" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xJhonatan&layout=compact&langs_count=7&theme=apprentice"/>
  
  
 ##
-<br><br><br><br><br>
+<br><br>
 
 
-<div align="center">
-  <a href="https://github.com/matheuslima22">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuslima22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslima22&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Math-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="math-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
-
-</div>
+<p>
+  <img alt="csharp" src="https://img.shields.io/badge/-Csharp-green?style=flat-square&logo=csharp&logoColor=ffffff">
+  <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-eed718?style=flat-square&logo=javascript&logoColor=ffffff">
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Github" src="http://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=FFFFFF">
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img src="http://img.shields.io/badge/-Java-F89820?style=flat-square&logo=java&logoColor=white">
+  <br>
+  <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white">
+  <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   
+</p>
+
   ##
