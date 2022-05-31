@@ -6,10 +6,14 @@
 - 👨‍💻 I'm currently learning programming </>
 - 💪🏻 I’m looking to collaborate on my personal development
 - 📫 How to reach me: ml214964@gmail.com  
- <img align= "right-top" height="130cm" src="https://github-readme-stats.vercel.app/api/top-langs/username=matheuslima22&layout=compact&langs_count=7&theme=apprentice"/>
  
- 
-##
+ ---
+
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matheuslima22&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslima22&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <br><br>
 
 
