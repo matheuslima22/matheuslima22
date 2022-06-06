@@ -1,7 +1,6 @@
 
 
 ## Hi, i am Matheus 🤙
-<br>
 
 ## 📎 About me:
 
