@@ -1,10 +1,22 @@
 
 
 ## Hi, i am Matheus 🤙
+<br>
 
-- 📚 Learning new things along my journey
-- 👨‍💻 I'm currently learning programming </>
-- 💪🏻 I’m looking to collaborate on my personal development
+## 📎 About me:
+
+```JavaScript
+function SobreMim() {
+ const name = "Matheus Parreão de Lima"
+ const age = 17
+ 
+ const future = "Full-stack"
+ 
+ const languages = ["JavaScript", "Node.JS", "React.JS", "C#"] 
+}
+```
+
+---
 
 ### 📍 Contacts:
 
@@ -24,7 +36,7 @@
 
 ---
 
-## 🐱‍👤Languages:
+## 🐱‍👤Languages & Tools:
 
 
 <br>
