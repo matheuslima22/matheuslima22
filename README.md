@@ -33,7 +33,7 @@
 
 <p>
   <img alt="csharp" src="https://img.shields.io/badge/-Csharp-9932CC?style=plastic -square&logo=csharp&style=for-the-badge&logoColor=ffffff"> &nbsp
-  <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-eed718?style=plastic -square&logo=javascript&logoColor=ffffff&style=for-the-badge&logoWidth=15"> &nbsp
+  <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-eed718?style=plastic-square&logo=javascript&logoColor=ffffff&style=for-the-badge&logoWidth=15"> &nbsp
   <img alt="Terminal" src="https://img.shields.io/badge/-Terminal-000000?style=flat-square&logo=windowsTerminal&logoColor=ffffff&style=for-the-badge&logoWidth=15">&nbsp
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&style=for-the-badge&logoWidth=15" />&nbsp
   <img alt="Github" src="http://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=FFFFFF&style=for-the-badge&logoWidth=15">&nbsp
@@ -45,6 +45,7 @@
   <img alt="SQL"src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white&style=for-the-badge&logoWidth=15">&nbsp
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white&style=for-the-badge&logoWidth=15">&nbsp
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white&style=for-the-badge&logoWidth=15">
+ <img alt="NodeJS" src="https://img.shields.io/badge/-C++-7B68EE?style=flat-square&logo=cplusplus&logoColor=white&style=for-the-badge&logoWidth=15">
   
 </p>
 
