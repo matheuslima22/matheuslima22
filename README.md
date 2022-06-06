@@ -5,7 +5,15 @@
 - 📚 Learning new things along my journey
 - 👨‍💻 I'm currently learning programming </>
 - 💪🏻 I’m looking to collaborate on my personal development
-- 📫 How to reach me: ml214964@gmail.com  
+
+### Contatos:
+
+<div>
+<a href="https://instagram.com/__lima.matheus" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto: ml214964@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/matheus-parreão-de-lima-628486234" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
  
  ---
 
