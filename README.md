@@ -32,19 +32,19 @@
 
 
 <p>
-  <img alt="csharp" src="https://img.shields.io/badge/-Csharp-9932CC?style=plastic -square&logo=csharp&logoColor=ffffff"> &nbsp
-  <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-eed718?style=plastic -square&logo=javascript&logoColor=ffffff"> &nbsp
-  <img alt="Terminal" src="https://img.shields.io/badge/-Terminal-000000?style=flat-square&logo=windowsTerminal&logoColor=ffffff">&nbsp
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />&nbsp
-  <img alt="Github" src="http://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=FFFFFF">&nbsp
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />&nbsp
-  <img alt="CSS"src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">&nbsp
-  <img alt="Java" src="http://img.shields.io/badge/-Java-FF0000?style=flat-square&logo=java&logoColor=white">
+  <img alt="csharp" src="https://img.shields.io/badge/-Csharp-9932CC?style=plastic -square&logo=csharp&style=for-the-badge&logoColor=ffffff"> &nbsp
+  <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-eed718?style=plastic -square&logo=javascript&logoColor=ffffff&style=for-the-badge&logoWidth=15"> &nbsp
+  <img alt="Terminal" src="https://img.shields.io/badge/-Terminal-000000?style=flat-square&logo=windowsTerminal&logoColor=ffffff&style=for-the-badge&logoWidth=15">&nbsp
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&style=for-the-badge&logoWidth=15" />&nbsp
+  <img alt="Github" src="http://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=FFFFFF&style=for-the-badge&logoWidth=15">&nbsp
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&style=for-the-badge&logoWidth=15" />&nbsp
+  <img alt="CSS"src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&style=for-the-badge&logoWidth=15">&nbsp
+  <img alt="Java" src="http://img.shields.io/badge/-Java-FF0000?style=flat-square&logo=java&logoColor=white&style=for-the-badge&logoWidth=15">
  <br>
-  <img alt="vs-code" src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white">&nbsp
-  <img alt="SQL"src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white">&nbsp
-  <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">&nbsp
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white">
+  <img alt="vs-code" src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white&style=for-the-badge&logoWidth=15">&nbsp
+  <img alt="SQL"src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white&style=for-the-badge&logoWidth=15">&nbsp
+  <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white&style=for-the-badge&logoWidth=15">&nbsp
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white&style=for-the-badge&logoWidth=15">
   
 </p>
 
