@@ -6,7 +6,7 @@
 - 👨‍💻 I'm currently learning programming </>
 - 💪🏻 I’m looking to collaborate on my personal development
 
-### Contacts:
+### 📍 Contacts:
 
 <div>
 <a href="https://instagram.com/__lima.matheus" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
